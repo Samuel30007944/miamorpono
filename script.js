@@ -6,22 +6,22 @@ const musica = document.getElementById('musica');
 
 // Texto dividido por partes (párrafos)
 const mensajes = [
-  `Mi amor,
+  `Mi amor 😘💌
 
-Aunque nos separan kilómetros y el tiempo a veces parece jugar en nuestra contra, quiero que sepas que no hay distancia suficiente para disminuir lo que siento por ti. Al contrario, cada día que pasa lejos de ti mi corazón se fortalece y mi amor crece más profundo, más verdadero, porque amarte a la distancia me ha enseñado el valor real de lo que significa estar unidos de alma, aunque el cuerpo no pueda estar siempre cerca.
+    Aunque nos separan kilómetros 🌍 y el tiempo a veces parece jugar en nuestra contra ⏳, quiero que sepas que no hay distancia suficiente para disminuir lo que siento por ti ❤️. Al contrario, cada día que pasa lejos de ti, mi corazón se fortalece 💪💕 y mi amor crece más profundo, más verdadero 🥰, porque amarte a la distancia me ha enseñado el valor real de lo que significa estar unidos de alma 💫, aunque el cuerpo no pueda estar siempre cerca.
 
-Las noches son más largas sin poder abrazarte, y los días se sienten incompletos sin tu sonrisa al alcance, pero en cada amanecer recuerdo que te tengo en mi mente y en mi corazón, y eso me da fuerzas para seguir adelante. Eres la razón por la que sonrío sin razón, la esperanza que me impulsa a soñar con el momento en que al fin podamos estar juntos sin barreras ni fronteras.`,
+    Sé que han pasado ya tres días desde nuestro aniversario 🎉📅... y sí, lo sé, llego tarde 🕒. Pero no quería dejar pasar más tiempo sin decirte desde lo más profundo de mi alma: **Feliz aniversario, mi amor** 🎊💖. Sé que el mensaje no llegó a tiempo 🐌, pero mis sentimientos no tienen fecha de caducidad 💘. Hoy, igual que el primer día 🌹, y quizás incluso más, sigo celebrando tu existencia 🥳 y la suerte inmensa que tengo de tenerte en mi vida 💑✨.
 
-  `A veces cierro los ojos y te imagino a mi lado, siento tu voz susurrando palabras de cariño que me llenan de paz, y es ahí cuando entiendo que el amor verdadero no entiende de distancias, porque trasciende todo lo físico. Te amo con una intensidad que rompe los límites del espacio, y sé que cada sacrificio vale la pena porque tú eres mi destino, mi refugio y mi mayor alegría.`,
+    Las noches son más largas sin poder abrazarte 🌙🤗, y los días se sienten incompletos sin tu sonrisa al alcance ☀️😊, pero en cada amanecer 🌅 recuerdo que te tengo en mi mente y en mi corazón 💭❤️, y eso me da fuerzas para seguir adelante 🚀. Eres la razón por la que sonrío sin razón 😄, la esperanza que me impulsa a soñar 💤 con el momento en que al fin podamos estar juntos sin barreras ni fronteras 🛫🌈.
 
-  `Cada mensaje, cada llamada, cada instante compartido aunque sea a través de una pantalla, es un tesoro que guardo con cuidado en mi alma. Nos estamos construyendo con paciencia, confianza y mucho amor, y eso me hace creer en un futuro donde la distancia será solo un recuerdo lejano, y lo que quedará será la realidad hermosa de estar juntos.`,
+    A veces cierro los ojos 😌 y te imagino a mi lado 🤍, siento tu voz susurrando palabras de cariño que me llenan de paz 🕊️, y es ahí cuando entiendo que el amor verdadero 💗 no entiende de distancias ni de horarios 🕰️, ni siquiera de fechas 📆. Te amo con una intensidad que rompe los límites del espacio y del tiempo 🌌, y sé que cada sacrificio vale la pena porque tú eres mi destino, mi refugio y mi mayor alegría 🏡💖✨.
 
-  `Gracias por tu amor, por tu comprensión, por la fuerza que me transmites incluso cuando no estás físicamente cerca. Eres mi compañera de vida, la persona que me completa y que me impulsa a ser mejor cada día. No importa cuánto falte para poder abrazarte de verdad, porque en mi corazón ya te tengo aquí, latiendo conmigo en cada segundo.
+    Gracias por tu amor 💞, por tu paciencia 🧘‍♀️, por seguir ahí incluso cuando yo fallo en los pequeños detalles 💔➡️💪. Prometo seguir mejorando 🙏, aprendiendo de ti, de nosotros 🫶. Porque tú me enseñas cada día lo que es el amor verdadero: constante, firme y lleno de ternura 🐻🌹.
 
-Te amo, mi amor, con la certeza de que pronto llegaremos al día en que las distancias desaparecerán y solo quedará nuestro amor, puro, inmenso y eterno.
+    **Feliz aniversario atrasado, mi vida** 🎂🎈. No importa si han pasado horas o días, lo importante es que **mi amor por ti sigue aquí, intacto, firme y eterno** 💝💫.
 
-Con todo mi corazón,
-Sami 💖`
+    Con todo mi corazón,  
+    **Sami** 💌💕`
 ];
 
 // Función para animar letra por letra cada parte
