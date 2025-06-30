@@ -6,7 +6,7 @@ const musica        = document.getElementById('musica');
 
 // Array de mensajes con etiquetas HTML para negrita
 const mensajes = [
-  `Mi amor 😘💌<br><br>
+  `Mi amor 😘💌
 
   Aunque nos separan kilómetros 🌍 y el tiempo a veces parece jugar en nuestra contra ⏳, quiero que sepas que no hay distancia suficiente para disminuir lo que siento por ti ❤️. Al contrario, cada día que pasa lejos de ti, mi corazón se fortalece 💪💕 y mi amor crece más profundo, más verdadero 🥰, porque amarte a la distancia me ha enseñado el valor real de lo que significa estar unidos de alma 💫, aunque el cuerpo no pueda estar siempre cerca.<br><br>
 
